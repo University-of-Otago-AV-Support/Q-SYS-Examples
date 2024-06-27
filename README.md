@@ -22,6 +22,13 @@ This example design downloads an image from a specified URL and assigns it to a 
 
 Q-SYS design built in Q-SYS Designer 9.4.5 LTS
 
+
+## ChatGPT Integration Example and Tests
+
+This example demonstrates a basic ChatGPT integration with Q-Sys, allowing you to perform ChatGPT API calls from directly within a Q-Sys design. 
+
+Q-SYS design built in Q-SYS Designer 9.4.5 LTS
+
 ## Repository Information
 
 This repo, its code and its Q-SYS designs are maintained by Ryan Walker and Brendon Walters from the University of Otago's AV Support team.
